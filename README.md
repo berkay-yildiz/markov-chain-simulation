@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Markov Chain Simülasyonu
 
 A simple Streamlit app template for you to modify!
 
