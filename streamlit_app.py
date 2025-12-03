@@ -53,7 +53,7 @@ if start_button:
     fig, ax = plt.subplots(figsize=(7, 4))
 
     bars = ax.barh(
-        ['Durum 0', 'Durum 1'],
+        ['Ünlü Harf', 'Ünsüz Harf'],
         [p0, p1],
         color=['#4c72b0', '#dd8452'],
         edgecolor='black',
