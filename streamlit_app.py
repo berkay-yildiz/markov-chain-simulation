@@ -80,4 +80,4 @@ if start_button:
     st.pyplot(fig)
 
     # Yazılı sonuç
-    st.success(f"**Durum 0 oranı:** %{p0:.2f} \n\n **Durum 1 oranı:** %{p1:.2f}")
+    st.success(f"**Ünlü Harf Oranı:** %{p0:.2f} \n\n **Ünsüz Harf Oranı:** %{p1:.2f}")
